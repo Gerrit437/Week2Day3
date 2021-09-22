@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+    background-image: url(Starry-Night.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    margin: 220px;
+    margin-bottom: 12px;
+    font-family: fantasy;
+}
+P {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+.topnav {
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+    font-size: 25px;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    word-spacing: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
